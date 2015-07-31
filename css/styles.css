@@ -710,6 +710,10 @@ Features Slider
     margin: 0;
     padding: 0;
 }
+
+.slides h2{
+    color: white;
+}
 .features-slider .flickity-page-dots {
     text-align: left;
     margin-top: 50px;
