@@ -870,6 +870,25 @@ Screenshots Intro
     margin-bottom: 25px;
     color: #26341D;
 }
+.inspiration h1{
+    text-align: center;
+    font-size: 2em;
+}
+
+.inspiration .btn{
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: none;
+    background: none;
+    margin: 30px -50px 0px -50px; 
+    position:relative; 
+    left:50%;
+}
+
+.inspiration p{
+    margin-top: 5px!important;
+    margin-bottom: 5px!important;
+}
 
 /* ==========================================================================
 Screenshots
